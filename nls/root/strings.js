@@ -34,6 +34,8 @@ define({
     "CHANGE"                            : "Change…",
     "PROJECT_DIRECTORY_lABEL"           : "Parent Folder:",
     "CHOOSE_TEMPLATE_LABEL"             : "Template:",
+    "CHOOSE_TEMPLATE_LABEL"             : "Template:",
+    "IN_TEMPLATE_FILES_FOLDER"          :"in template files folder"
     "PROJECT_NAME_LABEL"                : "Name:",
     "DIALOG_TITLE"                      : "Create New Project",
     "NO_TEMPLATE_OPTION_LABEL"          : "None (Empty Project)",
