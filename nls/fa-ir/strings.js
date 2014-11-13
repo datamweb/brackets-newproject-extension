@@ -31,6 +31,7 @@ define({
 "CHANGE" : "تغییر…",
 "PROJECT_DIRECTORY_lABEL" : "پوشه اصلی:",
 "CHOOSE_TEMPLATE_LABEL" : "الگو:",
+"IN_TEMPLATE_FILES_FOLDER":"از پوشه الگوها",
 "PROJECT_NAME_LABEL" : "نام:",
 "DIALOG_TITLE" : "ایجاد پروژه جدید",
 "NO_TEMPLATE_OPTION_LABEL" : "هچی (پروژه خالی).",
